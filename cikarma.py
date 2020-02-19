@@ -1,2 +1,2 @@
-def cikarma(x,y);
+def cikarma1(x,y);
 	return x -y 
